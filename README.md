@@ -6,8 +6,7 @@
 
 ### 👦 About Me 
 
-- 🌱 I’m currently learning big data, datavis.
-- 🤔 Used to be a JavaScript User, but now I'm attend to learn more advanced knowledge about other fileds!
-- 🎉 If possible , you could look up my current activities in my [blog](https://blog.suflanker.com)!
+- 🌱 I’m currently learning big data, datavis
+- 🎉 You could look up my current activities in my [blog](https://blog.suflanker.com)!
 - 📈 Look forward to meeting you in GitHub
 
