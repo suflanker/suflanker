@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-我是suflanker,Aka LajiCF，80后中老年手残折腾党，伪码农，混迹于帝都，热爱一切电子产品。。
+I'm suflanker,Aka LajiCF，80后中老年手残折腾党，伪码农，混迹于帝都，热爱一切电子产品。。
 
 ### 👦 About Me 
 
